@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TomadaDecisaoSwiftCase {
+public class TomadaDecisaoSwitCase {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
