@@ -12,7 +12,7 @@ public class TomadaDecisaoSwiftCase {
         //Estrutura Antiga
         switch (diaSemana) {
             case "seg":
-                horarioDeFuncionamento "Fechado"
+                horarioDeFuncionamento = "Fechado";
                     break;
             case "ter":
             case "qua":
@@ -20,8 +20,8 @@ public class TomadaDecisaoSwiftCase {
             case "sex":
                 horarioDeFuncionamento = "Aberto das: 08:00 as 18:00 horas";
                 break;
-                case "sab;
-            case "dom";
+            case "sab":
+            case "dom":
                 horarioDeFuncionamento = "Aberto das: 08:00 as 12:00 horas";
                 break;
             default:
