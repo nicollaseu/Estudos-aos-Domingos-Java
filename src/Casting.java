@@ -3,7 +3,7 @@ public class Casting {
 
         /*
         Casting feito implicitamente, pois o valor possui um
-        tamanho menor que o tipo da varaivel que irá recebe-lo.
+        tamanho menor que o tipo da variável que irá recebe-lo.
          */
 
 //        int d = (int) 5.1974F;
